@@ -9,6 +9,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Recording of Application](#recording-of-application)
   * [Screenshots](#screeshots)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -31,13 +32,28 @@
 
   The application is covered under the following license:
 
+  [mit](https://choosealicense.com/licenses/mit)
+
+  ## [Recording of application](#table-of-contents)
+
+  
+
   ## [Screenshots](#table-of-contents)
   
   Index asking for user input
+
   ![Alt text](image.png)
+
+  ![Alt text](image-2.png)
+
+  Logos generated
   
-  [mit](https://choosealicense.com/licenses/mit)
-  
+  ![Alt text](image-3.png)
+
+  ![Alt text](image-4.png)
+
+  ![Alt text](image-5.png)
+    
   ## [Tests](#table-of-contents)
 
   See video on how to test app
