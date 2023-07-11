@@ -42,17 +42,17 @@
   
   Index asking for user input
 
-  ![Alt text](image.png)
+  ![Alt text](screenshots/image.png)
 
-  ![Alt text](image-2.png)
+  ![Alt text](screenshots/image-2.png)
 
   Logos generated
   
-  ![Alt text](image-3.png)
+  ![Alt text](screenshots/image-3.png)
 
-  ![Alt text](image-4.png)
+  ![Alt text](screenshots/image-4.png)
 
-  ![Alt text](image-5.png)
+  ![Alt text](screenshots/image-5.png)
     
   ## [Tests](#table-of-contents)
 
